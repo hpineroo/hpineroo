@@ -22,11 +22,18 @@ You can see some of my latest work
       <a href="https://dercocenterx.cl" target="_blank">https://www.dercocenterx.cl</a>
     </td>
     <td>
+      <img width="200" src="https://i.imgur.com/v67hJRn.png" alt="Meki">
+      <br>
+      <a href="https://mimeki.cl" target="_blank">https://www.mimeki.cl</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img width="200" src="https://i.imgur.com/w1qL8vb.png" alt="Dercomaq">
       <br>
       <a href="https://dercomaq.cl" target="_blank">https://www.dercomaq.cl</a>
     </td>
-  </tr>  
+  </tr> 
 </table>
     
 
