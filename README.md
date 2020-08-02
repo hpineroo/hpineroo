@@ -1,6 +1,6 @@
 # Hi, I'm Héctor.
 
-I ♥ to build web apps and try new technologies, right now i'm an enthusiast of [@gatsbyjs](https://github.com/gatsbyjs) and [@strapi](https://github.com/strapi), you could build powerful things with that!
+I 💙 to build web apps and try new technologies, right now i'm an enthusiast of [@gatsbyjs](https://github.com/gatsbyjs) and [@strapi](https://github.com/strapi), you could build powerful things with that!
 
 I work at [@in-ventures](https://github.com/in-ventures) as Fullstack Developer focus on fast prototyping and frontend development.
 
